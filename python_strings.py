@@ -24,10 +24,12 @@ current_year = 2022
 #       - second letter of your last name (use the -index)
 #       - first two letter of your first name (use the +index)
 #       - second two letter of your last name (use the -index)
-
-
-
-
+print(first_name)
+print(last_name)
+print(first_name[0])
+print(last_name[-3])
+print(first_name[0 : 2])
+print(last_name[ -2: ])
 #TODO Combining Strings
 #   - Print the following items (one per line) (print using variables)
 #       -first name and last name combined
